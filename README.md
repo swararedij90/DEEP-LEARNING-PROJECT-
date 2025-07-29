@@ -30,3 +30,6 @@ Deliverables:
 A trained CNN model capable of classifying new images as either a cat or a dog.
 Visualizations: Training vs. validation accuracy/loss plots, confusion matrix, and sample predictions.
 Final Report/README with methodology, results, and screenshots of outputs.
+![Image](https://github.com/user-attachments/assets/d9b4f14f-3cbc-46a9-99f1-d269c89f8143)
+![Image](https://github.com/user-attachments/assets/d554a260-9404-417d-97e2-f3fbf162b198)
+![Image](https://github.com/user-attachments/assets/f3f7d54b-0133-4a42-9e69-a876af26a785)
